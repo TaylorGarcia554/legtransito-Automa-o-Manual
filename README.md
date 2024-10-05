@@ -1,6 +1,6 @@
 # Automação de Cadastros e Mensagens
 
-![Tela inicial](AgroTec_To_Pc/image/Tela.png)
+![Tela inicial](AgroTec_to_Pc/image/Tela.png)
 
 ## Available Languages
 
