@@ -2,5 +2,5 @@
 
 ## Available Languages
 
-- [English](docs/README.en.md)
-- [Português](docs/README.pt.md)
+- [English](README.en.md)
+- [Português](README.pt.md)
