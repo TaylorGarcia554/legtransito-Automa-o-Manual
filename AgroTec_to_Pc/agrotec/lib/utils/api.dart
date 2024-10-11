@@ -124,7 +124,7 @@ class ApiService {
       BuildContext context) async {
     // The verification API URL
     final apiVerificarUser = Uri.https(
-        'ead.autoescolaonline.net', '/api/1/student', {'email': email});
+        'ead.sua-api-aqui.net', '/api/1/student', {'email': email});
 
     try {
       final verificado = await http.get(apiVerificarUser, headers: headers);
